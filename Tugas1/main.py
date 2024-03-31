@@ -97,3 +97,6 @@ player.check()
 player.add_item("Healing Potion")
 player.heal()
 player.check()
+
+
+### https://replit.com/@zaidanrh4/PemrogramanGame4604#Tugas%201/main.py
